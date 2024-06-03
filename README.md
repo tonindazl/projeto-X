@@ -1,2 +1,2 @@
-# projeto-X
-28/04
+# site-alura-plus
+Projeto 2 Segundo ano
